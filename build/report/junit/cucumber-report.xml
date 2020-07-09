@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="10.589622">
+<testcase classname="Input form Demo" name="Input Form Submit" time="10.589622">
+<system-out><![CDATA[Given user is already in selenium demo page.................................passed
+Then user enters details....................................................passed
+Then user Select State from the dropdown....................................passed
+Then user enters rest  details..............................................passed
+Then user Clicks the checkBox...............................................passed
+Then User enters "Fedex Pricing"............................................passed
+Then user Clicks the Send Button............................................passed
+Then User Close the browser.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
